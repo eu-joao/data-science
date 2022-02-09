@@ -1,4 +1,4 @@
-# Projeos de Ciência de Dados
+# Projetos de Ciência de Dados
 > Repositório para meus projetos de ciência de dados.
 
 # Lista de projetos

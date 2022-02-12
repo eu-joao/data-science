@@ -1,8 +1,8 @@
-<center>
+<div align="center"> 
     <h1>  Sistema de previsão de doenças renais </h1>
     <img src="imagem\kidney.gif" width="400" height="300">
     <h1>  </h1>
-</center>
+</div>
 
 ## Sobre o dataset:
 

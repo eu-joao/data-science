@@ -40,4 +40,4 @@ su | Açúcar (nominal)  | (0,1,2,3,4,5)
 class | Classe (nominal)  | classe - (ckd, notckd)
 
 ## Acesso ao notebook colab:
-* [Sistema de previsão de doenças renais.ipynb]()
+* [Sistema de previsão de doenças renais.ipynb](https://github.com/o-vilela/projetos-ciencia-de-dados/blob/main/Previs%C3%A3o%20de%20doen%C3%A7as%20renais/notebook%20colab/Sistema_de_previs%C3%B5es_de_doen%C3%A7as_renais.ipynb)

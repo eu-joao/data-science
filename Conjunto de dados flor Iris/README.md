@@ -1,6 +1,6 @@
 # Conjunto de dados flor Iris (Iris flower data set)
 
-![flor-iris](https://raw.githubusercontent.com/o-vilela/projetos-ciencia-de-dados/main/Conjunto%20de%20dados%20flor%20Iris%20(Iris%20flower%20data%20set)/imagens/flor-iris.png)
+![flor-iris](https://raw.githubusercontent.com/vilelas/projetos-ciencia-de-dados/main/Conjunto%20de%20dados%20flor%20Iris/imagens/flor-iris.png)
 
 # Sobre o dataset: 
 
@@ -16,4 +16,4 @@
 * Fonte dos dados: [Iris Species](https://archive.ics.uci.edu/ml/datasets/iris)
 
 # Acesso ao notebook colab:
-* [Conjunto de dados flor Iris (Iris flower data set).ipynb](https://github.com/o-vilela/projetos-ciencia-de-dados/blob/main/Conjunto%20de%20dados%20flor%20Iris%20(Iris%20flower%20data%20set)/notebook%20colab/Conjunto_de_dados_flor_Iris_(Iris_flower_data_set).ipynb)
+* [Conjunto de dados flor Iris (Iris flower data set).ipynb](https://github.com/vilelas/projetos-ciencia-de-dados/blob/main/Conjunto%20de%20dados%20flor%20Iris/notebook%20colab/Conjunto_de_dados_flor_Iris_(Iris_flower_data_set).ipynb)

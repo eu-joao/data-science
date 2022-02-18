@@ -13,7 +13,6 @@
   - **Species**: Nome da espécie
 * O conjunto de dados contém 3 classes de 50 instâncias cada, onde cada classe se refere a um tipo de planta de íris. 
 * Objetivo: prever a classe de planta de íris. (problema de classificação multiclasse)
-* Fonte dos dados: [Iris Species](https://archive.ics.uci.edu/ml/datasets/iris)
 
 # Acesso ao notebook colab:
 * [Conjunto de dados flor Iris (Iris flower data set).ipynb](https://github.com/vilelas/projetos-ciencia-de-dados/blob/main/Conjunto%20de%20dados%20flor%20Iris/notebook%20colab/Conjunto_de_dados_flor_Iris_(Iris_flower_data_set).ipynb)

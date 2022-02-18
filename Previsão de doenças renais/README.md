@@ -31,7 +31,7 @@ su | Açúcar (nominal)  | (0,1,2,3,4,5)
  pcv | Volume celular empacotado (numérico) |  (numérico)
  wc | Contagem de glóbulos brancos (numérico)  | em células / cumm
  rc | Contagem de glóbulos vermelhos (numérico)  | em milhões / cmm
- htn | Hhipertensão (nominal)  | htn - (sim, não)
+ htn | hipertensão (nominal)  | htn - (sim, não)
  dm | Diabetes Mellitus (nominal )  DM |  - (sim, não)
  cad | Doença da Artéria Coronariana (nominal)  | cad - (sim, não)
  appet | Apetite Apetite (nominal)  | = (bom, ruim)

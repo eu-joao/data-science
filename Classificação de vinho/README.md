@@ -25,7 +25,6 @@
         - 0
         - 1
         - 2
-- Fonte dos dados: [Wine Data Set](https://archive.ics.uci.edu/ml/datasets/wine)
 
 ## Acesso ao notebook colab:
 -   [Classificação de vinho (Wine Data Set)](#)

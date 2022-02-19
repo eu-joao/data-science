@@ -1,6 +1,8 @@
-# Conjunto de dados flor Iris (Iris flower data set)
+<div align="center"> 
+    <h1>  Conjunto de dados flor Iris (Iris flower data set) </h1>
+    <img src="imagens\flor-iris.png" width="600" height="250">
+</div>
 
-![flor-iris](https://raw.githubusercontent.com/vilelas/projetos-ciencia-de-dados/main/Conjunto%20de%20dados%20flor%20Iris/imagens/flor-iris.png)
 
 # Sobre o dataset: 
 
@@ -11,8 +13,8 @@
   - **PetalLengthCm**: Comprimento da pétala (em cm)
   - **PetalWidthCm**: Largura da pétala (em cm)
   - **Species**: Nome da espécie
-* O conjunto de dados contém 3 classes de 50 instâncias cada, onde cada classe se refere a um tipo de planta de íris. 
-* Objetivo: prever a classe de planta de íris. (problema de classificação multiclasse)
+* O conjunto de dados contém 3 classes com 50 instâncias cada, onde cada classe se refere a um tipo de planta de íris. 
+* Objetivo: prever a classe da planta íris. (problema de classificação multiclasse)
 
 # Acesso ao notebook colab:
 * [Conjunto de dados flor Iris (Iris flower data set).ipynb](https://github.com/vilelas/projetos-ciencia-de-dados/blob/main/Conjunto%20de%20dados%20flor%20Iris/notebook%20colab/Conjunto_de_dados_flor_Iris_(Iris_flower_data_set).ipynb)

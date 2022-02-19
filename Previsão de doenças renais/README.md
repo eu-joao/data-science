@@ -9,6 +9,9 @@
 *   Conjunto de dados com informações clínicas de alguns pacientes.
 *   Objetivo: Desenvolver um **Sistema de Previsão de Doenças Renais** para auxiliar os médicos na identificação de doenças crônicas dos rins.
 
+## Acesso ao notebook colab:
+* [Sistema de previsão de doenças renais.ipynb](https://github.com/o-vilela/projetos-ciencia-de-dados/blob/main/Previs%C3%A3o%20de%20doen%C3%A7as%20renais/notebook%20colab/Sistema_de_previs%C3%B5es_de_doen%C3%A7as_renais.ipynb)
+
 ##  Descrição dos dados fornecidos:
 
 Variável | Descrição | Domínios possíveis
@@ -38,6 +41,3 @@ su | Açúcar (nominal)  | (0,1,2,3,4,5)
  pe | Pedal Edema (nominal)  | pe - (sim, não)
  ane | Anemia (nominal)  | ane - (sim, não)
 class | Classe (nominal)  | classe - (ckd, notckd)
-
-## Acesso ao notebook colab:
-* [Sistema de previsão de doenças renais.ipynb](https://github.com/o-vilela/projetos-ciencia-de-dados/blob/main/Previs%C3%A3o%20de%20doen%C3%A7as%20renais/notebook%20colab/Sistema_de_previs%C3%B5es_de_doen%C3%A7as_renais.ipynb)

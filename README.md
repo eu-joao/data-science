@@ -1,5 +1,5 @@
 # Projetos de Machine learning e Deep Learning
-> Repositório para meus projetos de Ml e DL.
+> Repositório para meus projetos de ML e DL.
 
 # Lista de projetos
 1. [Conjunto de dados flor Iris (Iris flower data set)](https://github.com/vilelas/projetos-ciencia-de-dados/tree/main/Conjunto%20de%20dados%20flor%20Iris)

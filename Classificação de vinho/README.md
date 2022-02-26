@@ -5,7 +5,7 @@
 </div>
 
 ## Acesso ao notebook colab:
--   [Classificação de vinho (Wine Data Set)](https://github.com/vilelas/projetos-de-ml-e-dl/blob/main/Classifica%C3%A7%C3%A3o%20de%20vinho/notebook%20colab/Classifica%C3%A7%C3%A3o%20de%20vinho.ipynb)
+-   [Classificação de vinho (Wine Data Set).ipynb](https://github.com/vilelas/projetos-de-ml-e-dl/blob/main/Classifica%C3%A7%C3%A3o%20de%20vinho/notebook%20colab/Classifica%C3%A7%C3%A3o%20de%20vinho.ipynb)
 
 ## Sobre o dataset:
 - Número de atributos: 13 (atributos numéricos)

@@ -1,5 +1,5 @@
 <div align="center"> 
-    <h1>  Classificação de vinhos (Wine DataSet) </h1>
+    <h1>  Classificação de vinhos (Wine Data Set) </h1>
     <img src="imagem\wine.gif" width="400" height="300">
     <h1>  </h1>
 </div>

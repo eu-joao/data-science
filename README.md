@@ -15,6 +15,6 @@ Lista de projetos em Jupyter Notebook:
 * [Machine Learning para a Detecção de Câncer de Mama](https://github.com/vilelas/data-science-projects/blob/main/Dados%20de%20C%C3%A2ncer%20de%20mama/Dados_de_C%C3%A2ncer_de_Mama.ipynb)
 
 # Sobre o autor:
-João tem 21 anos, mora em Arapiraca, um município brasileiro no estado de Alagoas. Viciado em Rock Alterntivo e jogos online, vive explorando o vasto mundo da tecnologia, sempre com o intenso desejo de aprender mais e mais.
+João tem 21 anos, mora em Arapiraca, um município brasileiro no estado de Alagoas. Viciado em Rock Alternativo e jogos online, vive explorando o vasto mundo da tecnologia, sempre com o intenso desejo de aprender mais e mais.
 
 * Graduando em Ciência da Computação - [Universidade Federal de Alagoas - UFAL](https://ufal.br/) - *Campus Arapiraca*

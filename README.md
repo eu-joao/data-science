@@ -1,6 +1,5 @@
 [![author](https://img.shields.io/badge/author-vilelas-black?style=flat-square)](https://www.linkedin.com/in/vilelas)
 [![license](https://img.shields.io/github/license/vilelas/data-science-projects?style=flat-square)](https://opensource.org/licenses/MIT)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-yellow.svg?style=flat-square)](https://github.com/vilelas/data-science-projects/issues)
 [![stars](https://img.shields.io/github/stars/vilelas/data-science-projects?style=flat-square)](#)
 [![forks](https://img.shields.io/github/forks/vilelas/data-science-projects?style=flat-square)](#)
 [![issues](https://img.shields.io/github/issues/vilelas/data-science-projects?style=flat-square&color=orange)](https://github.com/vilelas/data-science-projects/issues)

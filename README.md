@@ -5,7 +5,7 @@
 [![forks](https://img.shields.io/github/forks/vilelas/data-science-projects?style=flat-square)](#)
 [![issues](https://img.shields.io/github/issues/vilelas/data-science-projects?style=flat-square&color=orange)](https://github.com/vilelas/data-science-projects/issues)
 
-# Data Science
+# Data Science with João 
 Aqui você encontra os *notebooks* dos meus projetos na área de Data Science.
 
 # Conteúdo do repositório:

@@ -18,4 +18,4 @@ Lista de projetos em Jupyter Notebook:
 # Sobre mim:
 João tem 21 anos, mora em Arapiraca, um município brasileiro no estado de Alagoas. Viciado em Rock Alterntivo e jogos online, vive explorando o vasto mundo da tecnologia, sempre com o intenso desejo de aprender mais e mais.
 
-* Graduando em Ciência da Computação - [UFAL](https://ufal.br/) - *Campus Arapiraca*
+* Graduando em Ciência da Computação - [Universidade Federal de Alagoas - UFAL](https://ufal.br/) - *Campus Arapiraca*

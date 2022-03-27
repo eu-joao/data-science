@@ -14,7 +14,7 @@ Lista de projetos em Jupyter Notebook:
 * [Redes neurais para a classificação de vinhos](https://github.com/vilelas/data-science-projects/blob/main/Classifica%C3%A7%C3%A3o%20de%20vinho/Classifica%C3%A7%C3%A3o%20de%20vinho.ipynb)
 * [Machine Learning para a Detecção de Câncer de Mama](https://github.com/vilelas/data-science-projects/blob/main/Dados%20de%20C%C3%A2ncer%20de%20mama/Dados_de_C%C3%A2ncer_de_Mama.ipynb)
 
-# Sobre mim:
-João tem 21 anos, mora em Arapiraca, um município brasileiro no estado de Alagoas. Viciado em Rock Alterntivo e jogos online, vive explorando o vasto mundo da tecnologia, sempre com o intenso desejo de aprender mais e mais.
+# Sobre o autor:
+João tem 21 anos, mora em Arapiraca, um município brasileiro no estado de Alagoas. Viciado em Rock Alternativo e jogos online, vive explorando o vasto mundo da tecnologia, sempre com o intenso desejo de aprender mais e mais.
 
 * Graduando em Ciência da Computação - [Universidade Federal de Alagoas - UFAL](https://ufal.br/) - *Campus Arapiraca*

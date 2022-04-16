@@ -1,8 +1,8 @@
-[![author](https://img.shields.io/badge/author-vilelas-black?style=flat-square)](https://www.linkedin.com/in/vilelas)
-[![license](https://img.shields.io/github/license/vilelas/data-science-projects?style=flat-square)](https://opensource.org/licenses/MIT)
-[![stars](https://img.shields.io/github/stars/vilelas/data-science-projects?style=flat-square)](#)
-[![forks](https://img.shields.io/github/forks/vilelas/data-science-projects?style=flat-square)](#)
-[![issues](https://img.shields.io/github/issues/vilelas/data-science-projects?style=flat-square&color=orange)](https://github.com/vilelas/data-science-projects/issues)
+[![author](https://img.shields.io/badge/author-vilelas-red?style=plastic)](https://www.linkedin.com/in/vilelas)
+[![license](https://img.shields.io/github/license/vilelas/data-science-projects?style=plastic)](https://opensource.org/licenses/MIT)
+[![stars](https://img.shields.io/github/stars/vilelas/data-science-projects?style=plastic)](#)
+[![forks](https://img.shields.io/github/forks/vilelas/data-science-projects?style=plastic)](#)
+[![issues](https://img.shields.io/github/issues/vilelas/data-science-projects?style=plastic&color=yellow)](https://github.com/vilelas/data-science-projects/issues)
 
 # Data Science with João 
 Aqui você encontra os *notebooks* dos meus projetos na área de Data Science.

@@ -1,7 +1,3 @@
-
-
-## Lista de projetos em jupyter notebook
-
 Notebook  | Descrição
 --------- | ------
 [Iris_keras](https://github.com/eu-joao/data-science/blob/main/Conjunto%20de%20dados%20flor%20Iris/Conjunto%20de%20dados%20flor%20Iris.ipynb)| Esse dataset mostra um conjunto de medidas das pétalas e sépalas de três espécies de flores: setosa, versicolor e virginica. O objetivo é prever, de acordo com as medidas das pétalas e sépalas, qual das três espécies pertence uma nova flor.
